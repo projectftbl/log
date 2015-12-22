@@ -1,6 +1,6 @@
-## Locum
+## @ftbl/log
 
-Locum is a log helper with sane defaults. 
+Log helper with sane defaults. 
 
 ### Usage
 
@@ -29,7 +29,7 @@ Or to Papertrail:
 To write to the log:
 
 ```javascript
-var log = require('locum');
+var log = require('@ftbl/log');
 
 log.info('Information');
 log.warn('Warning');
