@@ -18,8 +18,8 @@
   },
   "dependencies": {
     "@ftbl/configuration": "^1.0.0",
-    "winston": "^1.0.1",
-    "winston-papertrail": "^1.0.1"
+    "winston": "1.0.1",
+    "winston-papertrail": "1.0.1"
   },
   "devDependencies": {
     "@ftbl/gulp": "^1.0.0",
