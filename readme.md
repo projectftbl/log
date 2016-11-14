@@ -1,4 +1,4 @@
-## @ftbl/log
+## @recipher/log
 
 Log helper with sane defaults. 
 
@@ -29,7 +29,7 @@ Or to Papertrail:
 To write to the log:
 
 ```javascript
-var log = require('@ftbl/log');
+var log = require('@recipher/log');
 
 log.info('Information');
 log.warn('Warning');

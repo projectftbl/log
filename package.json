@@ -1,5 +1,5 @@
 {
-  "name": "@ftbl/log",
+  "name": "@recipher/log",
   "version": "1.0.3",
   "description": "Log helper",
   "main": "node index",
@@ -14,15 +14,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/log.git"
+    "url": "git@github.com:recipher/log.git"
   },
   "dependencies": {
-    "@ftbl/configuration": "^1.0.0",
+    "@recipher/configuration": "^1.0.0",
     "winston": "^1.0.1",
     "winston-papertrail": "^1.0.1"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.0.0",
+    "@recipher/gulp": "^1.0.0",
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",
